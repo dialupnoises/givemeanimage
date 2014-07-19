@@ -1,0 +1,14 @@
+{
+  "name": "givemeanimage",
+  "version": "0.1.0",
+  "main": "./app.js",
+  "dependencies": {
+    "yesno": "0.0.1",
+    "colors": "^0.6.2",
+    "commander": "^2.3.0",
+    "node-dir": "^0.1.5",
+    "open": "0.0.5",
+    "copy-paste": "^0.3.0",
+    "imgur-node-api": "0.0.2"
+  }
+}
